@@ -1,5 +1,7 @@
 # Reproduction code for webpack issue
 
+webpack/webpack#2803
+
 * Clone repo
 * `npm install`
 * `./node_modules/.bin/webpack --watch`
